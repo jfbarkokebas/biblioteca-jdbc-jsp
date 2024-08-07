@@ -1,0 +1,10 @@
+daos/BookDAO.class
+exceptions/YearPublicationException.class
+servlets/UserController.class
+model/Book.class
+model/User.class
+daos/UserDAO.class
+servlets/LoginController.class
+services/UserService.class
+model/Loan.class
+connection/DBConnection.class

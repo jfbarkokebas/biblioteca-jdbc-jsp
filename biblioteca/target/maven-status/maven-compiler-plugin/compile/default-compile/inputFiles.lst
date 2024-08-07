@@ -1,0 +1,10 @@
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/daos/BookDAO.java
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/connection/DBConnection.java
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/exceptions/YearPublicationException.java
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/servlets/LoginController.java
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/daos/UserDAO.java
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/servlets/UserController.java
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/services/UserService.java
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/model/Book.java
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/model/User.java
+/home/felipe/eclipse-jakarta-workspace/biblioteca/src/main/java/model/Loan.java
